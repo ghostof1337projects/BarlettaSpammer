@@ -1,6 +1,8 @@
 
 # Barletta Spammer V6
 
+## NOW SUPPORTS VPS/TERMUX TOO
+
 Barletta Spammer is one of the best Discord spammers, including spam and afk check options
 
 
