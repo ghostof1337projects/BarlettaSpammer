@@ -17,7 +17,6 @@ Barletta Spammer is one of the best Discord spammers, including spam and afk che
 - Option to reset token
 - Status changer
 - Message typing show
-- Option to play mp3 files in the background
 - Spams super fast 
 - Checks for internet connection at startup
 - Supports UTF-8
