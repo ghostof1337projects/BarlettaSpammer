@@ -50,7 +50,7 @@ Of course, any tools to spam messages is against Discord TOS
 
 #### Is my token save?
 
-Yes, the file token.json is where your token gets stored. Remember do not share your token with anyone
+Yes, the file data.json is where your token gets stored. Remember do not share your token with anyone
 
 #### Where i can contact support?
 
