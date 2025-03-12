@@ -46,7 +46,7 @@ Yes, it is safe to use!
 
 #### Is this against Discord TOS?
 
-Of course, any tools to spam messages is against Discord TOS
+Of course, any tools to spam messages is against Discord TOS, USE IT AT YOUR OWN RISK
 
 #### Is my token save?
 
